@@ -1,7 +1,7 @@
 # Application
 .htaccess
-web/app/plugins/yivic-base
-web/app/mu-plugins/yivic-base
+web/app/plugins/manhphuc-base
+web/app/mu-plugins/manhphuc-base
 web/app/themes/yivic-sample-2021
 
 # WordPress
